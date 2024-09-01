@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  background-color: #111;
+  min-height: 100vh;
+  color: white;
+}
+
+.main-header {
+  height:500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-image: url('https://images.indianexpress.com/2021/09/iss-horizon-pic.jpg?w=640'); /* Replace with your image */
+  background-size: cover;
+  color: white;
+}
+
+.button-group {
+  margin: 20px;
+}
